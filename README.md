@@ -1,0 +1,1 @@
+This repository contain all Machine learning algorithm which  is helpful for beginer.
